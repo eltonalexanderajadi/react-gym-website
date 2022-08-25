@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gym-website/static/css/main.8abb6fcf.css",
+    "main.js": "/react-gym-website/static/js/main.85c93c80.js",
+    "static/media/hero_image.png": "/react-gym-website/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/react-gym-website/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/react-gym-website/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image3.png": "/react-gym-website/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/t-image3.png": "/react-gym-website/static/media/t-image3.ff189eec56a96a928730.png",
+    "static/media/t-image2.png": "/react-gym-website/static/media/t-image2.b53e2b7ac6fbb7e941f2.png",
+    "static/media/image4.jpg": "/react-gym-website/static/media/image4.ed34369d820548ad0dfe.jpg",
+    "static/media/image2.jpg": "/react-gym-website/static/media/image2.344a0553c9dc6ae786e0.jpg",
+    "static/media/hero_image_back.png": "/react-gym-website/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/react-gym-website/index.html",
+    "main.8abb6fcf.css.map": "/react-gym-website/static/css/main.8abb6fcf.css.map",
+    "main.85c93c80.js.map": "/react-gym-website/static/js/main.85c93c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8abb6fcf.css",
+    "static/js/main.85c93c80.js"
+  ]
+}
